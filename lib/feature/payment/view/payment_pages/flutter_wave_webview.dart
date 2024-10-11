@@ -56,7 +56,7 @@ class FlutterWaveWebviewPage extends HookConsumerWidget {
                             if(flutterWaveCtrl().isPerSlice)
                             Text(
                             "Montant à payer",
-                            style: Theme.of(context).textTheme.headline4,
+                            style: Theme.of(context).textTheme.displayLarge,
                           ),
                           if(flutterWaveCtrl().isPerSlice)
                           const SizedBox(height: 50.0),

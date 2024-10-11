@@ -1,6 +1,5 @@
 class Endpoints {
   Endpoints._();
-
   static String? betaBaseUrl;
 
   // base url

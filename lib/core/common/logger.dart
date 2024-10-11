@@ -153,9 +153,9 @@ class RouteLogger extends TalkerLog {
   String get key => TalkerLogType.route.key;
 
   @override
-  String generateTextMessage() {
-    return '[$title]  $displayMessage';
-  }
+  // String generateTextMessage() {
+  //   return '[$title]  $displayMessage';
+  // }
 
   static String _createMessage(
     Route<dynamic> route,
@@ -180,10 +180,10 @@ class _KLog extends TalkerLog {
 
   final bool isJson;
 
-  @override
-  String generateTextMessage() {
-    return '[$title]  $displayMessage$displayStackTrace';
-  }
+  // @override
+  // String generateTextMessage() {
+  //   return '[$title]  $displayMessage$displayStackTrace';
+  // }
 
   @override
   AnsiPen? get pen {

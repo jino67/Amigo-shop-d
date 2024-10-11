@@ -17,8 +17,8 @@ dependencies:
 
   # ui
   cupertino_icons: ^1.0.6
-  google_fonts: 6.1.0
-  carousel_slider: ^4.2.1
+  google_fonts: ^6.2.1
+  carousel_slider: ^5.0.0
   shimmer_animation: ^2.1.0+1
   toggle_switch: ^2.1.0
   flutter_staggered_grid_view: ^0.7.0
@@ -29,31 +29,31 @@ dependencies:
   material_design_icons_flutter: ^7.0.7296
   flutter_html: ^3.0.0-beta.2
   pull_to_refresh: ^2.0.0
-  lottie: ^2.7.0
+  lottie: ^3.1.2
   badges: ^3.1.2
   flex_color_scheme: ^7.3.1
   rive: ^0.13.0
-  auto_animated_list: ^1.0.4
+  auto_animated_list: ^2.0.0
   animated_onboard:
     path: package/animated_onboard
   hold_on_pop: ^0.0.5
   flutter_form_builder: ^9.2.1
-  form_builder_validators: ^9.1.0
+  form_builder_validators: ^11.0.0
   extended_image: ^8.2.0
-  pinput: ^4.0.0
+  pinput: ^5.0.0
   cached_network_image: ^3.3.0
   gap: ^3.0.1
   #state and management
   flutter_hooks: ^0.20.3
   hooks_riverpod: ^2.4.9
-  go_router: ^12.1.3
-  get_it: ^7.6.7
+  go_router: ^14.2.8
+  get_it: ^8.0.0
   #util
   equatable: ^2.0.5
-  intl: ^0.18.1
+  intl: ^0.19.0
   fpdart: ^1.1.0
   dio: ^5.4.0
-  connectivity_plus: ^5.0.2
+  connectivity_plus: ^6.0.5
   google_sign_in: ^6.2.1
   flutter_facebook_auth: ^6.0.4
   collection: ^1.18.0
@@ -61,14 +61,14 @@ dependencies:
   url_launcher: ^6.2.6
   internet_connection_checker: ^1.0.0+1
   flutter_image_compress: ^2.1.0
-  share_plus: ^7.2.2
-  toastification: ^1.2.1
+  share_plus: ^10.0.2
+  toastification: ^2.3.0
   #data
   faker: ^2.1.0
   shared_preferences: ^2.2.2
   flutter_gen: ^5.3.2
   open_filex: ^4.3.4
-  file_picker: ^6.1.1
+  file_picker: ^8.1.2
   path_provider: ^2.1.1
   pointycastle: ^3.7.3
   encrypt: ^5.0.3
@@ -85,15 +85,15 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.1
-  custom_lint: ^0.5.7
+  flutter_lints: ^4.0.0
+  custom_lint: ^0.6.4
   riverpod_lint: ^2.3.7
   build_runner: ^2.4.7
   flutter_gen_runner: ^5.3.2
   rename: ^3.0.1
   test: ^1.24.9
-  very_good_analysis: ^5.1.0
-  flutter_launcher_icons: ^0.13.1
+  very_good_analysis: ^6.0.0
+  flutter_launcher_icons: ^0.14.1
 
 flutter:
   uses-material-design: true
