@@ -67,15 +67,17 @@
 		</array>
 
 		<key>FacebookAppID</key>
-		<string>433409578816799</string>
+		<string>582935497436833</string>
 		<key>FacebookClientToken</key>
-		<string>f355d57fe24e3464f783aa626cad3055</string>
+		<string>385abc2a7d43c809acb39a11f8cf55b5</string>
 		<key>FacebookDisplayName</key>
-		<string>Cart User</string>
+		<string>Amigo Shop</string>
 		<key>LSApplicationQueriesSchemes</key>
 		<array>
 			<string>fbapi</string>
-			<string>fb-messenger-share-api</string>
+            <string>fb-messenger-share-api</string>
+            <string>fbauth2</string>
+            <string>fbshareextension</string>
 		</array>
 
 		<!-- Stripe -->
